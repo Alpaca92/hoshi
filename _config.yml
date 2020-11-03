@@ -4,7 +4,7 @@ bio:                'Where there is a will there is a way.'
 description:        "It's a space where I organize and share what I studied."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/alpaca.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             ko_KR
@@ -40,17 +40,17 @@ disqus_shortname:   taylantatli
 #email:
 twitter:            NULL
 facebook:           NULL
-github-url:         https://github.com/Alpaca92?tab=repositories
+github-url:         https://github.com/Alpaca92
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          yim_hoshi
+instagram:          alpaca92
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              Alpaca
+steam:              f35234
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
